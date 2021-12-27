@@ -1,1 +1,1 @@
-# My-poject
+# My Project (Tindog)
